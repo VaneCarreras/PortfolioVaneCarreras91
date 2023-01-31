@@ -9,8 +9,11 @@
 
 .card{
     box-shadow: 3px 3px 10px violet;
+    width: 25em;
 }
 
-.fondo{
+.row{
     background-color: #a1b5cb;
 }
+
+

@@ -1,5 +1,6 @@
 .row{
     padding: 20px;
+    background-color: #a1b5cb;
 }
 
 .titulos{
@@ -13,9 +14,6 @@
     margin-right: 5px;
 }
 
-.fondo{
-    background-color: #a1b5cb;
-}
 
 .fotoPerfil{
     border-radius: 100%;
