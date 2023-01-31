@@ -5,7 +5,6 @@
 footer{
     color: azure;
     font-size: 14px;
-    display: flex;
     flex-direction: column;
     text-align: center;
 }
