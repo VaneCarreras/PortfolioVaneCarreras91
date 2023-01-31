@@ -12,3 +12,7 @@ footer{
     text-align: center;
     box-shadow: 0px -2px 5px black;
 }
+
+.borde{
+    -webkit-text-stroke: 0.7px black;
+}

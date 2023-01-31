@@ -4,16 +4,14 @@
 
 .row{
     padding: 20px;
+    background-color: #a1b5cb;
     
 }
 
 .card{
     box-shadow: 3px 3px 10px violet;
-    width: 25em;
+    width: 60vh;
 }
 
-.row{
-    background-color: #a1b5cb;
-}
 
 
