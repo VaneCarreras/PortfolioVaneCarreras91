@@ -14,5 +14,10 @@
 
 .fotoPerfil{
     border-radius: 100%;
-    box-shadow: 4px 4px 4px grey;
+    box-shadow: 4px 4px 4px violet;
+}
+
+.centrar{
+    display: flex;
+    justify-content: center;
 }
